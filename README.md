@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Mohid Bin Waqas</h1>
-<h3 align="center">💻 A Passionate Coder | 🌐 Web Developer | 🎮 Game Developer</h3>
+<h3 align="center">💻 A Passionate Coder | 🌐 Web Developer | UI & UX Designer</h3>
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 - 🔥 Passionate about **Web Development & Game Development**  
-- 🌱 Currently learning **C# & Unity for Game Development**  
+- 🌱 Currently learning **UI & UX Designing**  
 - 💡 Love solving problems and building creative projects  
 - 🎯 Preferred Languages: **HTML, CSS, JavaScript, Bootstrap, C, C++, C#**  
 - ⚡ Fun Fact: Coding feels like magic when logic meets creativity ✨  
@@ -24,19 +24,6 @@
   <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=vscode,unity" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohid-bin-waqas&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohid-bin-waqas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
